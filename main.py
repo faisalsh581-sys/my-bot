@@ -44,4 +44,4 @@ async def on_voice_state_update(member, before, after):
                 if log_channel:
                     await log_channel.send(embed=embed)
 
-bot.run(MTQ4MTE3NTk4NDYzOTA0OTkxMA.GgZJsS.jmiOlJ3IQll80K9PcEs-Pr8b1LnmylC0xLwub0)
+bot.run('MTQ4MTE3NTk4NDYzOTA0OTkxMA.GgZJsS.jmiOlJ3IQll80K9PcEs-Pr8b1LnmylC0xLwub0')
